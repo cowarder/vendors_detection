@@ -1,0 +1,9 @@
+lxml
+pandas
+scipy
+matplotlib
+pip==20.0.2
+pyyaml
+tqdm
+torch==1.6.0
+torchvision==0.7.0
